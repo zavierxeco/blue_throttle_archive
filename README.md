@@ -29,4 +29,9 @@ Since the game is no longer on the Play Store and is a 32-bit build, it may not 
 4. Ensure "Install from Unknown Sources" is enabled on your device.
 
 <img width="331" height="152" alt="image" src="https://github.com/user-attachments/assets/da55404f-2612-4c1a-becf-8db21933d7e6" />
+<img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/c1f4c49e-e5ed-44a9-8cfc-43d5521125a3" />
+<img width="815" height="376" alt="image" src="https://github.com/user-attachments/assets/adbab040-8462-4b33-8efe-22865f9b3ad4" />
+<img width="331" height="152" alt="image" src="https://github.com/user-attachments/assets/ca600d13-2c48-4b4d-bb87-b35d5f63b35f" />
+
+
 
