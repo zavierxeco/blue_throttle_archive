@@ -28,4 +28,5 @@ Since the game is no longer on the Play Store and is a 32-bit build, it may not 
 3. Install it on a 32-bit compatible Android device or an Android Emulator (such as BlueStacks or LDPlayer).
 4. Ensure "Install from Unknown Sources" is enabled on your device.
 
-*(Note: Because this is an archived APK, it is provided as-is for portfolio demonstration purposes.)*
+<img width="331" height="152" alt="image" src="https://github.com/user-attachments/assets/da55404f-2612-4c1a-becf-8db21933d7e6" />
+
