@@ -18,13 +18,14 @@ The removal was due to standard **Google Play policy updates** (specifically, ch
 *   **Engine:** Unity
 *   **Language:** C#
 *   **3D Modeling:** Blender
-*   **Networking:** Local Wi-Fi multiplayer (allowing players to connect multiple devices for cooperative missions and competitive dogfights).
+*   **Networking:** Local Wi-Fi multiplayer.
 *   **Platform:** Android (ARMv7 32-bit architecture)
 
 ## How to Play
 Since the game is no longer on the Play Store and is a 32-bit build, it may not run on the newest Android devices. To run it:
-1. Download the `BlueThrottle.apk` file from this repository.
-2. Install it on a 32-bit compatible Android device or an Android Emulator (such as BlueStacks or LDPlayer).
-3. Ensure "Install from Unknown Sources" is enabled on your device.
+1. Download the `BlueThrottle.apk` here
+   https://drive.google.com/file/d/1Q1Ol3Wx-GEh-Uq_Rc4fW8I6LPiqybpIF/view?usp=drive_link
+3. Install it on a 32-bit compatible Android device or an Android Emulator (such as BlueStacks or LDPlayer).
+4. Ensure "Install from Unknown Sources" is enabled on your device.
 
 *(Note: Because this is an archived APK, it is provided as-is for portfolio demonstration purposes.)*
